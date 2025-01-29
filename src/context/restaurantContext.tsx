@@ -12,7 +12,7 @@ interface ContextData {
     e: React.MouseEvent<HTMLAnchorElement>,
     restaurantReturn: Restaurant
   ) => void;
-  setRestaurants: ([]) => void;
+  setRestaurants: (restaurants: Restaurant[]) => void;
   favorites: Restaurant[];
 }
 
