@@ -1,6 +1,6 @@
 # Restaurants_Website
 
-![Design preview for the Restaurants Website ](PreviewImage.png)
+![Design preview for the Restaurants Website ](Preview.png)
 
 ## **Restaurants_Website**
 
